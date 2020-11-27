@@ -1,7 +1,5 @@
  <?php 
     // 1, 34, 3, 98, 9, 76, 45, 4
-    $a =array (3,24,4);
-    arrangeBiggestNumber($a);
     function arrangeBiggestNumber(array $array){
       function morett($a){
           while ($a>=10){
